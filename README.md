@@ -4,9 +4,7 @@ CS 320 Project Two
 Jose Lara Hernandez
 04/26/2024
 
-Summary
-	
- In developing the mobile application for our client at Grand Strand Systems, I meticulously approached the unit testing for each feature to ensure alignment with the specified requirements. For the Contact Service, I designed a suite of test cases covering various scenarios, including valid inputs, boundary conditions, and error handling. Testing methods such as addContact, deleteContact, and updateContact were thcanoroughly scrutinized to guarantee correct behavior under diverse conditions. Through this process, I verified the handling of unique contact IDs, validated field updates, and ensured appropriate error messaging for invalid inputs, ensuring that the Contact Service met the client's needs effectively.
+In developing the mobile application for our client at Grand Strand Systems, I meticulously approached the unit testing for each feature to ensure alignment with the specified requirements. For the Contact Service, I designed a suite of test cases covering various scenarios, including valid inputs, boundary conditions, and error handling. Testing methods such as addContact, deleteContact, and updateContact were thcanoroughly scrutinized to guarantee correct behavior under diverse conditions. Through this process, I verified the handling of unique contact IDs, validated field updates, and ensured appropriate error messaging for invalid inputs, ensuring that the Contact Service met the client's needs effectively.
 
 Similarly, the Task Service underwent a rigorous unit testing process, with a focus on validating functionality according to the project requirements. I crafted test cases to cover all aspects of task management, encompassing tasks such as addTask, deleteTask, and updateTaskName. Each method was meticulously tested to ensure accurate handling of unique task IDs, proper deletion of tasks, and correct updates to task fields. This approach ensured seamless operation of the Task Service within the application, meeting the specified criteria, and fulfilling the client's requirements for task management comprehensively.
 
